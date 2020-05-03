@@ -1,0 +1,175 @@
+
+body
+{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+span
+{
+  text-decoration: underline;
+}
+
+p{
+    line-height: 2;
+}
+
+h1
+{
+  font-size: 5.625rem;
+  width: 35%;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+
+}
+
+h2
+{
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: bold;
+  width: 30%;
+  margin: 10px auto 0 auto;
+
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: 1.17rem;
+  width: 30%;
+  margin: 10px auto;
+  margin-left: 200px;
+}
+
+.wine-taster-title{
+  margin-left: 0px;
+}
+
+.wine-lover-title{
+  margin: 5% auto;
+}
+
+.top-cloud
+{
+  position: absolute;
+  left: 250px;
+}
+
+.top-cloud
+{
+  position: absolute;
+  left: 70%;
+  top: 50px;
+
+}
+
+.bottom-cloud
+{
+  position: absolute;
+  left: 250px;
+}
+
+.footer-link{
+  color: #11999E;
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.img-skill {
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.img2-skill {
+  width: 25%;
+  float:right;
+  margin-left:30px;
+
+}
+
+.intro{
+  width: 35%;
+  margin: auto;
+}
+
+hr{
+  border-style: none;
+  border-color: #dadada;
+  border-top-style: dotted;
+  border-width:5px;
+  width: 5%;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.top-container
+{
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+  line-height:2;
+}
+
+.middle-container{
+  margin: 100px 0;
+
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+a{
+  color: #1199E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+    text-decoration: none;
+    font-size: 12.4px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to bottom, #11CDD4, #11999E);
+    border: solid #7CAFFF 1px;
+    border-radius: 5px;
+    padding:5px;
+    text-shadow: 0px 1px 2px #000000;
+    box-shadow: 0px 1px 5px #0D2444;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+    background: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+    box-shadow: 0px 1px 2px #000000;
+}
